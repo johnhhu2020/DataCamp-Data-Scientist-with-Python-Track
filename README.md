@@ -26,6 +26,7 @@ PROJECT
 The Android App Market on Google Play
 
 
+
 6
 Joining Data with pandas
 
@@ -107,7 +108,7 @@ Writing Functions in Python
 
 
 
-21
+21    Finished***
 Test your newly acquired skills...
 Skill Assessment
 Python Programming
