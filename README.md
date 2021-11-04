@@ -1,6 +1,6 @@
 # DataCamp-Data-Scientist-with-Python-Track
 
-1    Finished
+1    Finished***
 Introduction to Python
 
 
@@ -102,7 +102,7 @@ Importing & Cleaning Data with Python
 
 
 
-20    Finished
+20    Finished***
 Writing Functions in Python
 
 
