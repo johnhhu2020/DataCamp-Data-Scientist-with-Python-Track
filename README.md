@@ -1,11 +1,11 @@
 # DataCamp-Data-Scientist-with-Python-Track
 
-1    Finished***
+### Finished 1
 Introduction to Python
 
 
 
-2
+### Finished 2
 Intermediate Python
 
 
@@ -103,12 +103,12 @@ Importing & Cleaning Data with Python
 
 
 
-20    Finished***
+### Finished 20
 Writing Functions in Python
 
 
 
-21    Finished***
+### Finished 21
 Test your newly acquired skills...
 Skill Assessment
 Python Programming
