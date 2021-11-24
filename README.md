@@ -9,173 +9,182 @@ In this track, you'll learn how this versatile language allows you to import, cl
 
 
 
-### Finished 1
-Introduction to Python
+### Finished 1 Introduction to Python
+Master the basics of data analysis in Python. Expand your skillset by learning scientific computing with numpy.
 
 
 
-### Finished 2
-Intermediate Python
+### Finished 2 Intermediate Python
+Level up your data science skills by creating visualizations using Matplotlib and manipulating DataFrames with pandas.
 
 
 
-3
+3 Solidify your knowledge from previous courses
 PROJECT
 Investigating Netflix Movies and Guest Stars in The Office
+Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data.
 
 
 
-4
-Data Manipulation with pandas
+4 Data Manipulation with pandas
+Use the world’s most popular Python data science package to manipulate data and calculate summary statistics.
 
 
 
-5
+5 Solidify your knowledge from previous courses
 PROJECT
 The Android App Market on Google Play
+Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
 
 
 
-6
-Joining Data with pandas
+6 Joining Data with pandas
+Learn to combine data from multiple tables by joining data together using pandas.
 
 
 
-7
+7 Solidify your knowledge from previous courses
 PROJECT
 The GitHub History of the Scala Language
+Find the true Scala experts by exploring its development history in Git and GitHub.
 
 
 
-8
-Introduction to Data Visualization with Matplotlib
+8 Introduction to Data Visualization with Matplotlib
+Learn how to create, customize, and share data visualizations using Matplotlib.
 
 
 
-9
-Introduction to Data Visualization with Seaborn
+9 Introduction to Data Visualization with Seaborn
+Learn how to create informative and attractive visualizations in Python using the Seaborn library.
 
 
 
-10
-Python Data Science Toolbox (Part 1)
+10 Python Data Science Toolbox (Part 1)
+Learn the art of writing your own functions in Python, as well as key concepts like scoping and error handling.
 
 
 
-11
-Python Data Science Toolbox (Part 2)
+
+11 Python Data Science Toolbox (Part 2)
+Continue to build your modern Data Science skills by learning about iterators and list comprehensions.
 
 
 
-12
-Intermediate Data Visualization with Seaborn
+12 Intermediate Data Visualization with Seaborn
+Use Seaborn's sophisticated visualization tools to make beautiful, informative visualizations with ease.
 
 
 
-13
+13 Solidify your knowledge from previous courses
 PROJECT
 A Visual History of Nobel Prize Winners
+Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
 
 
 
-14
-Test your newly acquired skills...
+14 Test your newly acquired skills...
 Skill Assessment
 Data Manipulation with Python
 
 
 
-15
-Introduction to Importing Data in Python
+15 Introduction to Importing Data in Python
+Learn to import data into Python from various sources, such as Excel, SQL, SAS and right from the web.
 
 
 
 16
 Intermediate Importing Data in Python
+Improve your Python data importing skills and learn to work with web and API data.
 
 
 
-17
-Cleaning Data in Python
+17 Cleaning Data in Python
+Learn to diagnose and treat dirty data and develop the skills needed to transform your raw data into accurate insights!
 
 
 
-18
-Working with Dates and Times in Python
+18 Working with Dates and Times in Python
+Learn how to work with dates and times in Python.
 
 
 
-19
-Test your newly acquired skills...
+19 Test your newly acquired skills...
 Skill Assessment
 Importing & Cleaning Data with Python
 
 
 
-### Finished 20
-Writing Functions in Python
+### Finished 20 Writing Functions in Python
+Learn to use best practices to write maintainable, reusable, complex functions with good documentation.
 
 
 
-### Finished 21
-Test your newly acquired skills...
+### Finished 21 Test your newly acquired skills...
 Skill Assessment
 Python Programming
 Advanced Score: 154  |  Percentile: 96%
 
-    
-    
-22
-Exploratory Data Analysis in Python
+
+
+22 Exploratory Data Analysis in Python
+Learn how to explore, visualize, and extract insights from data.
 
 
 
-23
-Analyzing Police Activity with pandas
+23 Analyzing Police Activity with pandas
+Explore the Stanford Open Policing Project dataset and analyze the impact of gender on police behavior using pandas.
 
 
 
-24
-Statistical Thinking in Python (Part 1)
+24 Statistical Thinking in Python (Part 1)
+Build the foundation you need to think statistically and to speak the language of your data.
 
 
 
-25
-Statistical Thinking in Python (Part 2)
+25 Statistical Thinking in Python (Part 2)
+Learn to perform the two key tasks in statistical inference: parameter estimation and hypothesis testing.
 
 
 
-26
+26 Solidify your knowledge from previous courses
 PROJECT
 Dr. Semmelweis and the Discovery of Handwashing
+Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
 
 
 
-27
-Supervised Learning with scikit-learn
+27 Supervised Learning with scikit-learn
+Learn how to build and tune predictive models and evaluate how well they'll perform on unseen data.
 
 
 
-28
+28 Solidify your knowledge from previous courses
 PROJECT
 Predicting Credit Card Approvals
+Build a machine learning model to predict if a credit card application will get approved.
 
 
 
-29
-Unsupervised Learning in Python
+29 Unsupervised Learning in Python
+Learn how to cluster, transform, visualize, and extract insights from unlabeled datasets using scikit-learn and scipy.
 
 
 
-30
-Machine Learning with Tree-Based Models in Python
+30 Machine Learning with Tree-Based Models in Python
+In this course, you'll learn how to use tree-based models and ensembles for regression and classification using sciki...
 
 
 
-31
-Case Study: School Budgeting with Machine Learning in Python
+31 Case Study: School Budgeting with Machine Learning in Python
+Learn how to build a model to automatically classify items in a school budget.
 
 
 
-32
-Cluster Analysis in Python
+32 Cluster Analysis in Python
+In this course, you will be introduced to unsupervised learning through techniques such as hierarchical and k-means c...
+
+
+
+Statement of Accomplishment
