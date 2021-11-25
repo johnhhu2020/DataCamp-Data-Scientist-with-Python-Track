@@ -55,7 +55,7 @@ Learn how to create, customize, and share data visualizations using Matplotlib.
 
 
 
-9 Introduction to Data Visualization with Seaborn
+### Finished 9 Introduction to Data Visualization with Seaborn
 Learn how to create informative and attractive visualizations in Python using the Seaborn library.
 
 
