@@ -66,7 +66,7 @@ Learn the art of writing your own functions in Python, as well as key concepts l
 
 
 
-11 Python Data Science Toolbox (Part 2)
+### Finished 11 Python Data Science Toolbox (Part 2)
 Continue to build your modern Data Science skills by learning about iterators and list comprehensions.
 
 
