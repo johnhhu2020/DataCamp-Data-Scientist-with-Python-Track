@@ -19,7 +19,7 @@ Level up your data science skills by creating visualizations using Matplotlib an
 
 
 
-3 Solidify your knowledge from previous courses
+### Finished 3 Solidify your knowledge from previous courses
 PROJECT
 Investigating Netflix Movies and Guest Stars in The Office
 Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data.
