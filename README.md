@@ -26,7 +26,7 @@ Apply the foundational Python skills you learned in Introduction to Python and I
 
 
 
-4 Data Manipulation with pandas
+### Finished 4 Data Manipulation with pandas
 Use the world’s most popular Python data science package to manipulate data and calculate summary statistics.
 
 
