@@ -31,7 +31,7 @@ Use the world’s most popular Python data science package to manipulate data an
 
 
 
-5 Solidify your knowledge from previous courses
+### Finished 5 Solidify your knowledge from previous courses
 PROJECT
 The Android App Market on Google Play
 Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
