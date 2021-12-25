@@ -38,7 +38,7 @@ Load, clean, and visualize scraped Google Play Store data to gain insights into 
 
 
 
-6 Joining Data with pandas
+### Finished 6 Joining Data with pandas
 Learn to combine data from multiple tables by joining data together using pandas.
 
 
