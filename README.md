@@ -43,7 +43,7 @@ Learn to combine data from multiple tables by joining data together using pandas
 
 
 
-7 Solidify your knowledge from previous courses
+### Finished 7 Solidify your knowledge from previous courses
 PROJECT
 The GitHub History of the Scala Language
 Find the true Scala experts by exploring its development history in Git and GitHub.
