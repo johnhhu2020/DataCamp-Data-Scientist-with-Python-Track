@@ -50,7 +50,7 @@ Find the true Scala experts by exploring its development history in Git and GitH
 
 
 
-8 Introduction to Data Visualization with Matplotlib
+### Finished 8 Introduction to Data Visualization with Matplotlib
 Learn how to create, customize, and share data visualizations using Matplotlib.
 
 
