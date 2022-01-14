@@ -71,7 +71,7 @@ Continue to build your modern Data Science skills by learning about iterators an
 
 
 
-12 Intermediate Data Visualization with Seaborn
+### Finished 12 Intermediate Data Visualization with Seaborn
 Use Seaborn's sophisticated visualization tools to make beautiful, informative visualizations with ease.
 
 
