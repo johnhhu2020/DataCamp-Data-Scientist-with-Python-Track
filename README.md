@@ -86,6 +86,7 @@ Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. W
 ### Finished 14 Test your newly acquired skills...
 Skill Assessment
 Data Manipulation with Python
+Advanced Score: 140  |  Percentile: 91%
 
 
 
