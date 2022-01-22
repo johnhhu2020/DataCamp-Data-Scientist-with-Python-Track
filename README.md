@@ -90,7 +90,7 @@ Advanced Score: 140  |  Percentile: 91%
 
 
 
-15 Introduction to Importing Data in Python
+### Finished 15 Introduction to Importing Data in Python
 Learn to import data into Python from various sources, such as Excel, SQL, SAS and right from the web.
 
 
