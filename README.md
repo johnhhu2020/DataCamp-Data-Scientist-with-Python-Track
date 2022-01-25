@@ -95,8 +95,7 @@ Learn to import data into Python from various sources, such as Excel, SQL, SAS a
 
 
 
-16
-Intermediate Importing Data in Python
+### Finished 16 Intermediate Importing Data in Python
 Improve your Python data importing skills and learn to work with web and API data.
 
 
