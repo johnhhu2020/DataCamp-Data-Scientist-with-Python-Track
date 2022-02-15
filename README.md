@@ -100,7 +100,7 @@ Improve your Python data importing skills and learn to work with web and API dat
 
 
 
-17 Cleaning Data in Python
+### Finished 17 Cleaning Data in Python
 Learn to diagnose and treat dirty data and develop the skills needed to transform your raw data into accurate insights!
 
 
