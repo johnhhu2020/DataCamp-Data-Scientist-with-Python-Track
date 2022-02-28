@@ -105,7 +105,7 @@ Learn to diagnose and treat dirty data and develop the skills needed to transfor
 
 
 
-18 Working with Dates and Times in Python
+### Finished 18 Working with Dates and Times in Python
 Learn how to work with dates and times in Python.
 
 
