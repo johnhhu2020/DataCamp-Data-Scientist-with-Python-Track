@@ -110,9 +110,10 @@ Learn how to work with dates and times in Python.
 
 
 
-19 Test your newly acquired skills...
+### Finished 19 Test your newly acquired skills...
 Skill Assessment
 Importing & Cleaning Data with Python
+Intermediate Score: 100  |  Percentile: 50%
 
 
 
