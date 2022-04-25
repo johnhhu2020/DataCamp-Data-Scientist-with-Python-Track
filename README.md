@@ -129,7 +129,7 @@ Advanced Score: 154  |  Percentile: 96%
 
 
 
-22 Exploratory Data Analysis in Python
+### Finished 22 Exploratory Data Analysis in Python
 Learn how to explore, visualize, and extract insights from data.
 
 
